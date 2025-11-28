@@ -212,7 +212,6 @@ aws glue create-job \
 ## 🔮 Future Enhancements
 
 - Add more data sources (hospital data, vaccination rates)
-- Implement curated zone with aggregations
 - Schedule Glue ETL job automatically
 - Add data quality tests
 - Create QuickSight dashboard
